@@ -7,6 +7,12 @@ to peer lending service. It presents a summary on loan details such as loan
 amounts, income levels, loan ratings, interest rates and returns, number of
 investors, etc.
 
+### First version
+* https://public.tableau.com/profile/ming.ho#!/vizhome/Project_431/Story1
+
+### Final version
+* https://public.tableau.com/profile/ming.ho#!/vizhome/ProsperLoanVisualization/Story2?publish=yes
+
 ### Design
 
 I started by asking questions that I was curious about. How much did people
